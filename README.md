@@ -1,0 +1,2 @@
+# SARS-CoV-2_case_only_analyse_delta_omicron_BA.1
+Codebase for Eggink, D.*, Andeweg, S. P.*, Vennema, H., van Maarseveen, N., Vermaas, K., Vlaemynck, B., ... &amp; Knol, M. J. (2022). Increased risk of infection with SARS-CoV-2 Omicron BA. 1 compared with Delta in vaccinated and previously infected individuals, the Netherlands, 22 November 2021 to 19 January 2022. Eurosurveillance, 27(4), 2101196.
