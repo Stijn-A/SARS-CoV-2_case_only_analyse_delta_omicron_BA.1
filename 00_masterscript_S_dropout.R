@@ -3,9 +3,9 @@
 # Vaccinatie varianten
 
 ### initialize 
-setwd("/rivm/n/andewegs/Documents/SARS-CoV-2/03_SGTF_Delta_BA.1")
+setwd("PATH/03_SGTF_Delta_BA.1")
 
-PATH_surv_data <- "/r-schijf/COVID-19/Surveillance/Data/"
+PATH_surv_data <- "PATH/Data/"
 
 ## packages
 library(tidyverse)
